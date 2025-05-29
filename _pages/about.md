@@ -8,9 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Ph.D. Candidate</p>
+    <p>PhD Candidate</p>
     <p>University of Maryland</p>
-    <p><a href="mailto:zplu@umd.edu" title="zplu@umd.edu"></p>
+    <p><a href="mailto:zplu@umd.edu">zplu@umd.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
