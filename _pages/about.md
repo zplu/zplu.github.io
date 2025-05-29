@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at University of Maryland. My research applies machine learning and econometrics methods to address marketing problems. 
 
-**Publication**  
+<h3 style="font-weight: bold; margin-bottom: 10px;">Publication</h3>
 <a href='#'>AI in Customer Journeys: A Transformer Approach</a>  
 Zipei Lu, P. K. Kannan  
 *Forthcoming, Journal of Marketing Research*
