@@ -8,8 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+  <!---
     <p>PhD Candidate in Marketing</p>
     <p>University of Maryland</p>
+    -->
     <p><a href="mailto:zplu@umd.edu">zplu@umd.edu</p>
 
 news: false  # includes a list of news items
