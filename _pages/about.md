@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-<!--- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. --->
+<!--- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Ph.D. Candidate</p>
     <p>University of Maryland</p>
-    <p>zplu@umd.edu</p>
+    <p><a href="mailto:zplu@umd.edu" title="zplu@umd.edu"></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
