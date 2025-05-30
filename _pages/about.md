@@ -15,7 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at University of Maryland. My research applies machine learning and econometrics methods to address marketing problems. 
+I am a Ph.D. student at the University of Maryland. My research applies machine learning and econometric methods to address marketing problems. 
+
+I am a methodologist working on explainable AI and novel adaptation of research methods to marketing. Currently I am working on AI-generated customer journeys for consumer privacy protection, drawing inspiration from how large language models (LLMs) generate sentences. In my first essay, "AI for Customer Journeys: A Transformer Approach," I propose a transformer-based framework that models customer-firm interactions over time, similar to how a sentence is modeled as a sequence of words by Large Language Models. I improve the original transformer architecture to account for customer heterogeneity, and facilitate model learning by sharing knowledge across different types of touchpoint predictions. The model significantly outperforms existing benchmarks in predicting customer journeys, as demonstrated through both empirical comparisons and extensive simulations. With firms facing increasing privacy regulations, I'm now exploring a novel solution that integrates AI-generated customer journeys with aggregate-level marketing mix data, mitigating the effects of data fragmentation. 
+
+Before joining the PhD program, I received my background training in physics at Fudan University in Shanghai. I will be on the job market in the summer of 2025.
 
 
 <!---

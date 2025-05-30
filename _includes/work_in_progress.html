@@ -15,8 +15,8 @@ Zipei Lu, Michael Trusov, Liye Ma, and P. K. Kannan<br>
   </tr>
 </table>
 
-<div id="abstract" style="display: none; margin-top: 10px; padding: 15px; border-left: 4px solid #6c757d; ">
-  <p><strong>Abstract:</strong> </p>
+<div id="abstract_wip1" style="display: none; margin-top: 10px; padding: 15px; border-left: 4px solid #6c757d; ">
+  <p><strong>Abstract:</strong>Despite the abundance of data in the digital ecosystem, emerging consumer privacy regulations have increasingly constrained firms’ ability to access and utilize such information. Notably, the European Union’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) have imposed significant limitations on data collection and usage. In parallel, private entities such as Apple and Google have announced or enacted additional restrictions on third-party cookies, further fragmenting the data landscape. These developments have limited firms’ capacity for targeting, personalization, and attribution by making individual-level data more sparse and inaccessible. In this paper, we propose a generative AI-based solution that constructs synthetic customer journeys by integrating aggregate-level marketing mix data. This approach enables firms to simulate and evaluate marketing strategies without relying on personally identifiable information. By substituting real individual-level data with synthetic counterparts, our method addresses the challenge of data fragmentation while ensuring firms’ compliance with prevailing privacy regulations. </p>
 </div>
 
 <b>Visual Competition in Online Market Place</b><br>
@@ -34,13 +34,13 @@ Zipei Lu, P. K. Kannan and Michel Wedel<br>
   </tr>
 </table>
 
-<div id="abstract" style="display: none; margin-top: 10px; padding: 15px; border-left: 4px solid #6c757d; ">
-  <p><strong>Abstract:</strong> </p>
+<div id="abstract_wip2" style="display: none; margin-top: 10px; padding: 15px; border-left: 4px solid #6c757d; ">
+  <p><strong>Abstract:</strong>Online shopping platforms like Amazon often feature a vast assortment of products within a single category. While prior research has primarily examined product assortments through tangible attributes, this paper introduces an attribute-free approach that leverages unstructured product image data for assortment analysis. We propose using the importance-weighted variational lower bound (IWLB) as an approximation of the marginal likelihood for each product image. Our results show that the IWLB effectively captures a product's visual distinctiveness within an assortment: a lower IWLB score indicates a lower likelihood and, consequently, greater visual distinctiveness. Building on this, we derive an entropy-based measure of assortment variety from the IWLB scores. We hypothesize that higher entropy in an assortment correlates with increased consumer-perceived variety and potential choice overload. This paper is the first to examine product assortments through the lens of image distribution and its implications for consumer behavior. Our findings offer actionable insights for retailers managing large assortments, particularly in categories where tangible product features are difficult to extract.</p>
 </div>
 
 <script>
-function toggleAbstract() {
-  var abstract = document.getElementById("abstract");
+function toggleAbstract(abstractId) {
+  var abstract = document.getElementById(abstractId);
   if (abstract.style.display === "none") {
     abstract.style.display = "block";
   } else {
