@@ -111,11 +111,12 @@ blockquote {
     text-align: left;
     
     .contact-icons {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
+      text-align: left;
       a {
         margin: 0 0.25rem;
         i::before {
-          color: var(--global-text-color);
+          color: var(--global-theme-color);
           transition-property: all 0.2s ease-in-out;
         }
         &:hover {
