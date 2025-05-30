@@ -7,7 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-<a 
-  href="https://www.dropbox.com/scl/fi/dpk1hdod6o90trv11qovv/Zipei-Lu-CV.pdf?rlkey=lmu01pgu5rlswmes6w8fzm911&st=ewg9vdco&dl=0" 
-  class="dropbox-embed"
-></a>
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" 
+     target="_blank" 
+     class="btn btn-primary">
+    <i class="fas fa-download"></i> Download CV
+  </a>
+</div>
+
+<iframe 
+  src="{{ '/assets/pdf/cv.pdf' | relative_url }}" 
+  width="100%" 
+  height="800px" 
+  style="border: none;">
+  <p>Your browser does not support iframes. <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">Download the CV</a></p>
+</iframe>
