@@ -116,7 +116,7 @@ blockquote {
       a {
         margin: 0 0.25rem;
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-distill-app-color);
           transition-property: all 0.2s ease-in-out;
         }
         &:hover {
