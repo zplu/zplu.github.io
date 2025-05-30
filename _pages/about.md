@@ -17,9 +17,11 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Ph.D. student at the University of Maryland. My research applies machine learning and econometric methods to address marketing problems. 
 
-I am a methodologist working on explainable AI and novel adaptation of research methods to marketing. Currently I am working on AI-generated customer journeys for consumer privacy protection, drawing inspiration from how large language models (LLMs) generate sentences. I am also interested in product assortment analysis using generative AI, and I am developing a tool for feature-free image-based assortment analysis.
+I am a methodologist working on explainable AI and novel adaptation of research methods to marketing. Currently I am working on AI-generated customer journeys for consumer privacy protection, much like how large language models (LLMs) generate sentences. I am also interested in product assortment analysis using generative AI, and I am developing a tool for feature-free image-based assortment analysis.
 
-Before joining the PhD program, I received my background training in physics at Fudan University in Shanghai. I will be on the job market in the summer of 2025.
+Before joining the PhD program, I received my background training in physics at Fudan University in Shanghai. I will be on the job market in the summer of 2025. 
+
+For more about my background and research, check out my <a href='/cv/'>CV</a>.
 
 
 <!---
